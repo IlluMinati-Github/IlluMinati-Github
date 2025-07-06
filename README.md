@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **AI-powered projects, Data Science initiatives and Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IlluMinati-Github](https://github.com/IlluMinati-Github)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/IlluMinati-Github)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Generative AI, Python, Full-Stack Development, and Hackathon projects**
 
 - 📫 How to reach me **harsh180116@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harsh-gupta-o-0-/](https://www.linkedin.com/in/harsh-gupta-o-0-/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/harsh-gupta-o-0-/)
 
 - ⚡ Fun fact **I can spend hours debugging just to realize it's a missing semicolon 😅**
 
