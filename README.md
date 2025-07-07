@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [VidReviewHub](https://github.com/IlluMinati-Github/VidReviewHub)
 
-- 🌱 I’m currently learning **advanced Generative AI tools, Prompt Engineering, and deepening my knowledge in Python, Data Analysis, and AI frameworks**
+- 🌱 I’m currently learning **advanced Generative AI tools, Prompt Engineering, and deepening my knowledge in Python, Data Analysis, and AI frameworks and DSA**
 
 - 👯 I’m looking to collaborate on **AI-powered projects, Data Science initiatives and Open Source Projects**
 
