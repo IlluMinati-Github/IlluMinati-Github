@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">CS Sophomore at Chitkara University | Engineering the future with data and tech!</h3>
 
-
-
+<br>
 - 🔭 I’m currently working on [VidReviewHub](https://github.com/IlluMinati-Github/VidReviewHub)
 
 - 🌱 I’m currently learning **advanced Generative AI tools, Prompt Engineering, and deepening my knowledge in Python, Data Analysis, and AI frameworks**
