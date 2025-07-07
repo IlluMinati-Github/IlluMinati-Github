@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">CS Sophomore at Chitkara University | Engineering the future with data and tech!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=illuminati-github" alt="illuminati-github" /></a> </p>
 
 - 🔭 I’m currently working on [VidReviewHub](https://github.com/IlluMinati-Github/VidReviewHub)
 
