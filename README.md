@@ -146,3 +146,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illuminati-github&show_icons=true&locale=en&layout=compact" alt="illuminati-github" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illuminati-github&show_icons=true&locale=en" alt="illuminati-github" /></p>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlluMinati-Github&theme=github_dark" width="100%" alt="Contribution Graph" />
+  </div>
