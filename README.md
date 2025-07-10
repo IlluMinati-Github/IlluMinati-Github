@@ -134,7 +134,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a>
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/47ad7601f632c1ba6eb9722c98a4641eae04ac078a3f7aed5039e7f1090e9dad/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d696c6c756d696e6174692d6769746875622673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="canvasjs" width="40" height="40"/> 
+    
   </a>
 
 </p>
