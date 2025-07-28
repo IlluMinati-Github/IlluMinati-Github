@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/harsh-gupta-o-0-/)
 
-- ⚡ Fun fact **I can spend hours debugging just to realize it's a missing semicolon 😅**
+- ⚡ Fun fact **I talk to my code like it’s a person… and sometimes it listens.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
