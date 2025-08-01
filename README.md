@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Generative AI, Python, Full-Stack Development, and Hackathon projects**
 
-- 📫 How to reach me **harsh180116@gmail.com**
-
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/harsh-gupta-o-0-/)
 
 - ⚡ Fun fact **I talk to my code like it’s a person… and sometimes it listens.**
