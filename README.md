@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="35"> Hi,I'm Harsh Gupta</h1>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="35"> Hi, I'm Harsh Gupta</h1>
 <h3 align="center">CS Sophomore at Chitkara University | GSSoC'25 Tech Contributor | Engineering the future with data and tech!</h3>
 
 
